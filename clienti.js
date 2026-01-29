@@ -12,10 +12,10 @@ const users = {
 "jennyficarra.danza@libero.it": {
     password: "JennyErika@",
     name: "Jennifer",
-    mega: https://mega.nz/folder/bJlgHSrK#NDkOX2150XyNFqrxbfTahg
-},
+    mega: "https://mega.nz/folder/https://mega.nz/folder/bJlgHSrK#NDkOX2150XyNFqrxbfTahg"
+ },
   "angelofutsal5@libero.it": {
     password: "under17",
     name: "Angelo",
-    mega: "https://mega.nz/folder/https://mega.nz/folder/WjhQBJwQ#hi2nvHSnpUk6OxDJdeAJqA "
+    mega: "https://mega.nz/folder/https://mega.nz/folder/WjhQBJwQ#hi2nvHSnpUk6OxDJdeAJqA"
 };
