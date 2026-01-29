@@ -14,8 +14,8 @@ const users = {
     name: "Jennifer",
     mega: https://mega.nz/folder/bJlgHSrK#NDkOX2150XyNFqrxbfTahg
 },
-  "under17futsal5": {
-    password: "under17futsal5",
+  "angelofutsal5@libero.it": {
+    password: "under17",
     name: "Luigi Maira",
     mega: "https://mega.nz/folder/https://mega.nz/folder/WjhQBJwQ#hi2nvHSnpUk6OxDJdeAJqA "
 };
